@@ -1,99 +1,984 @@
 {
   "radios": [
     {
-      "name": "BBC - Radio 1",
-      "logo": "Kn5s3Pv",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_one.mpd"
+      "ID_INTERNE": 3,
+      "ID": 3,
+      "name": "Europe 1",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "https:\/\/ais-live.cloud-services.paris:8443\/europe1.aac",
+        "https:\/\/stream.europe1.fr\/europe1.aac",
+        "http:\/\/ais-live.cloud-services.paris:8000\/europe1.mp3",
+        "http:\/\/stream.europe1.fr\/europe1.mp3?aw_0_1st_playerid=lgrdrnwsTuneIn",
+        "https:\/\/stream.europe1.fr\/europe1.mp3?aw_0_1st_playerid=lgrdrnwsTuneIn",
+        "https:\/\/stream.europe1.fr\/europe1.mp3?aw_0_1st_playerid=lgrdrnwsradio-en-lignefr",
+        "http:\/\/ais-live.cloud-services.paris:8000\/europe1.aac",
+        "https:\/\/stream.europe1.fr\/europe1.aac?aw_0_1st_playerid=lgrdrnwsTuneIn",
+        "http:\/\/stream.europe1.fr\/europe1.aac?aw_0_1st_playerid=lgrdrnwsTuneIn",
+        "https:\/\/stream.europe1.fr\/europe1.mp3",
+        "https:\/\/stream.europe1.fr\/europe1.mp3"
+      ],
+      "BITRATE": "244k",
+      "url": "https:\/\/ais-live.cloud-services.paris:8443\/europe1.aac",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/88e0f94071853cb68809ce9e2ccb33ffefd4b52f.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/88e0f94071853cb68809ce9e2ccb33ffefd4b52f.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/88e0f94071853cb68809ce9e2ccb33ffefd4b52f.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/88e0f94071853cb68809ce9e2ccb33ffefd4b52f.png",
+      "VILLE": {
+        "ID": 1,
+        "LIBELLE": "Strasbourg"
+      },
+      "REGION": {
+        "ID": 1,
+        "LIBELLE": "Grand Est"
+      },
+      "LIKES": 105597,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 1 Extra",
-      "logo": "qogvJVV",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_1xtra.mpd"
+      "ID_INTERNE": 5,
+      "ID": 5,
+      "name": "RTL",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "https:\/\/streaming.radio.rtl.fr\/rtl-1-44-128",
+        "https:\/\/icecast.rtl.fr\/rtl-1-44-128",
+        "https:\/\/icecast.rtl.fr\/rtl-1-44-128?listen=wEbAwQMBgULAAQFAg8PBAEDBQ",
+        "https:\/\/icecast.rtl.fr\/rtl-1-44-128?listen=webDQcCCwwIBwMFBgUABAwDDg",
+        "http:\/\/icecast.rtl.fr\/rtl-1-44-128?id=webRTL",
+        "http:\/\/icecast.rtl.fr\/rtl-1-48-192",
+        "http:\/\/icecast.rtl.fr\/rtl-1-48-192"
+      ],
+      "BITRATE": "128k",
+      "url": "https:\/\/streaming.radio.rtl.fr\/rtl-1-44-128",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/69f511230116f00c315d04833b26420a8e1beb83.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/69f511230116f00c315d04833b26420a8e1beb83.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/69f511230116f00c315d04833b26420a8e1beb83.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/69f511230116f00c315d04833b26420a8e1beb83.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 92862,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 2",
-      "logo": "Gf7LfwX",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_two.mpd"
+      "ID_INTERNE": 8,
+      "ID": 8,
+      "name": "Ch\u00e9rie FM",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30201\/mp3_128.mp3",
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30201\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30201\/mp3_128.mp3",
+        "http:\/\/stream.streamgenial.stream\/f8wkeymm1wzuv",
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30201\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30201\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30201\/mp3_128.mp3",
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30201\/mp3_128.mp3",
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30201\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/audio1\/fr\/30201\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30201\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30201\/mp3_128.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30201\/mp3_128.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/1536ebc80bc3eb8f357d71a7427f907b76d6034f.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo\/1536ebc80bc3eb8f357d71a7427f907b76d6034f.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/1536ebc80bc3eb8f357d71a7427f907b76d6034f.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/1536ebc80bc3eb8f357d71a7427f907b76d6034f.png",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 80424,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 3",
-      "logo": "F76gqAT",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_three.mpd"
+      "ID_INTERNE": 9,
+      "ID": 9,
+      "name": "France Inter",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/direct.franceinter.fr\/live\/franceinter-midfi.mp3",
+        "http:\/\/direct.franceinter.fr\/live\/franceinter-midfi.mp3",
+        "http:\/\/icecast.radiofrance.fr\/franceinter-midfi.mp3",
+        "http:\/\/direct.franceinter.fr\/ts\/franceinter-midfi.mp3",
+        "https:\/\/icecast.radiofrance.fr\/franceinter-midfi.mp3",
+        "http:\/\/direct.franceinter.fr\/live\/franceinter-lofi.mp3",
+        "https:\/\/stream.radiofrance.fr\/franceinter\/franceinter.m3u8?id=radiofrance",
+        "https:\/\/stream.radiofrance.fr\/franceinter\/franceinter.m3u8?id=radiofrance"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/direct.franceinter.fr\/live\/franceinter-midfi.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/c0a9ac186890116e8034ef4820b8ddcc7edb7f44.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/c0a9ac186890116e8034ef4820b8ddcc7edb7f44.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/c0a9ac186890116e8034ef4820b8ddcc7edb7f44.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/c0a9ac186890116e8034ef4820b8ddcc7edb7f44.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 94806,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 4",
-      "logo": "D15SeGl",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_fourfm.mpd"
+      "ID_INTERNE": 10,
+      "ID": 10,
+      "name": "France Info",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/direct.franceinfo.fr\/live\/franceinfo-midfi.mp3",
+        "http:\/\/direct.franceinfo.fr\/live\/franceinfo-midfi.mp3",
+        "http:\/\/icecast.radiofrance.fr\/franceinfo-midfi.mp3",
+        "https:\/\/icecast.radiofrance.fr\/franceinfo-midfi.mp3",
+        "http:\/\/direct.franceinfo.fr\/live\/franceinfo-lofi.mp3",
+        "http:\/\/direct.franceinfo.fr\/live\/franceinfo-lofi.mp3",
+        "http:\/\/direct.franceinfo.fr\/live\/franceinfo-lofi.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/direct.franceinfo.fr\/live\/franceinfo-midfi.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/cd2f93d8bb6a7c5cefb8bdd4fff24712d5138e09.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo\/cd2f93d8bb6a7c5cefb8bdd4fff24712d5138e09.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/cd2f93d8bb6a7c5cefb8bdd4fff24712d5138e09.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/cd2f93d8bb6a7c5cefb8bdd4fff24712d5138e09.png",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 106571,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 4 Extra",
-      "logo": "C0SXqSA",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_radio_four_extra.mpd"
+      "ID_INTERNE": 11,
+      "ID": 11,
+      "name": "Skyrock",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/www.skyrock.fm\/stream.php\/tunein16_32aac.aac",
+        "http:\/\/www.skyrock.fm\/stream.php\/tunein16_128mp3.mp3",
+        "http:\/\/icecast.skyrock.net\/s\/natio_mp3_128k",
+        "https:\/\/icecast.skyrock.net\/s\/natio_aac_64k",
+        "http:\/\/icecast.skyrock.net\/s\/natio_aac_64k",
+        "http:\/\/icecast.skyrock.net\/s\/marseille_aac_64k",
+        "http:\/\/icecast.skyrock.net\/s\/natio_mp3_128k",
+        "https:\/\/skyrock.fm\/stream.php\/tunein19_parisidf-64aac.aac",
+        "http:\/\/www.skyrock.fm\/stream.php\/tunein16_64mp3.mp3",
+        "http:\/\/www.skyrock.fm\/stream.php\/tunein16_64aac.aac",
+        "http:\/\/skyrock.freeboxos.fr:8000\/marseille_aac_64k.aac",
+        "http:\/\/skyrock.freeboxos.fr:8000\/marseille_aac_64k.aac"
+      ],
+      "BITRATE": "167k",
+      "url": "http:\/\/www.skyrock.fm\/stream.php\/tunein16_32aac.aac",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/d81e27066bef33ac4977836111fcc51dad822780.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/d81e27066bef33ac4977836111fcc51dad822780.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/d81e27066bef33ac4977836111fcc51dad822780.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/d81e27066bef33ac4977836111fcc51dad822780.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 60909,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "Afro-Beat",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 5 live",
-      "logo": "mntFIDz",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_five_live.mpd"
+      "ID_INTERNE": 13,
+      "ID": 13,
+      "name": "FIP",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/direct.fipradio.fr\/live\/fip-midfi.mp3",
+        "http:\/\/direct.fipradio.fr\/live\/fip-lofi.mp3",
+        "http:\/\/direct.fipradio.fr\/live\/fip-lofi.mp3",
+        "https:\/\/stream.radiofrance.fr\/fip\/fip_hifi.m3u8?id=radiofrance",
+        "http:\/\/direct.fipradio.fr\/live\/fip-midfi.mp3",
+        "http:\/\/direct.fipradio.fr\/live\/fip-midfi.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/direct.fipradio.fr\/live\/fip-midfi.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/d552405b1df1ec713d9fbf82f51c584cfefea713.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/d552405b1df1ec713d9fbf82f51c584cfefea713.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/d552405b1df1ec713d9fbf82f51c584cfefea713.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/d552405b1df1ec713d9fbf82f51c584cfefea713.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "LIKES": 23292,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "Acid Jazz",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 5 Live sports extra",
-      "logo": "XqdY1pL",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/aks/bbc_radio_five_live_sports_extra.mpd"
+      "ID_INTERNE": 16,
+      "ID": 16,
+      "name": "Nostalgie FM",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30601\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30601\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30601\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30601\/mp3_128.mp3",
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30723\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/fr\/55205\/mp3_128.mp3?cdn_path=adswizz_lbs7&adws_out_a2=",
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30723\/mp3_128.mp3",
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30723\/mp3_128.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30601\/mp3_128.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/7391e93db7c57a42aaa4d3fe53f6d0760251c27e.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo\/7391e93db7c57a42aaa4d3fe53f6d0760251c27e.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/7391e93db7c57a42aaa4d3fe53f6d0760251c27e.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/7391e93db7c57a42aaa4d3fe53f6d0760251c27e.png",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "LIKES": 66695,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "80",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 6",
-      "logo": "DJknO2o",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_6music.mpd"
+      "ID_INTERNE": 17,
+      "ID": 17,
+      "name": "LATINA",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/start-latina.bcast.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/icepe11.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/stream.streamgenial.stream\/7szmp0wm1wzuv",
+        "http:\/\/icepe5.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/icepe2.infomaniak.ch\/start-latina-high.mp3",
+        "https:\/\/start-latina.ice.infomaniak.ch\/start-latina-high.aac",
+        "http:\/\/icepe8.infomaniak.ch\/start-latina-high.mp3",
+        "https:\/\/start-latina.ice.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/icepe9.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/icepe10.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/icepe3.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/icepe6.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/icepe1.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/icepe4.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/icepe12.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/icepe7.infomaniak.ch\/start-latina-high.mp3",
+        "http:\/\/start-latina.ice.infomaniak.ch\/start-latina-high.aac",
+        "http:\/\/start-latina.ice.infomaniak.ch\/start-latina-high.aac"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/start-latina.bcast.infomaniak.ch\/start-latina-high.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/505327fef692a03c07e98217299236f436a242da.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/505327fef692a03c07e98217299236f436a242da.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/505327fef692a03c07e98217299236f436a242da.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/505327fef692a03c07e98217299236f436a242da.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "LIKES": 27472,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "Afro-Beat",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio Asian Network",
-      "logo": "MvEHLYl",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_asian_network.mpd"
+      "ID_INTERNE": 18,
+      "ID": 18,
+      "name": "Rire et Chansons",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30401\/mp3_128.mp3",
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30401\/mp3_128.mp3",
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30401\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz1\/fr\/30443\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30401\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30401\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30401\/mp3_128.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30401\/mp3_128.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/7a7a7c7766509dccccf1dc27080a8952d7d554b1.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/7a7a7c7766509dccccf1dc27080a8952d7d554b1.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/7a7a7c7766509dccccf1dc27080a8952d7d554b1.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/7a7a7c7766509dccccf1dc27080a8952d7d554b1.png",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "LIKES": 48093,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 1 d",
-      "logo": "Kn5s3Pv",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_one.mpd"
+      "ID_INTERNE": 20,
+      "ID": 20,
+      "name": "Radio Classique",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/str0.creacast.com\/classique1",
+        "http:\/\/ice.creacast.com\/classique1",
+        "https:\/\/radioclassique.ice.infomaniak.ch\/radioclassique-high.mp3",
+        "http:\/\/broadcast.infomaniak.ch\/radioclassique-high.mp3",
+        "http:\/\/broadcast.infomaniak.net\/radioclassique-high.mp3",
+        "http:\/\/radioclassique.ice.infomaniak.ch\/radioclassique-high.mp3",
+        "http:\/\/broadcast.infomaniak.ch\/radioclassique-high.aac",
+        "http:\/\/broadcast.infomaniak.ch\/radioclassique-low.mp3",
+        "http:\/\/broadcast.infomaniak.ch\/radioclassique-low.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/str0.creacast.com\/classique1",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/fa03532d04f33ee17340f4b709a648e0426303ca.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/fa03532d04f33ee17340f4b709a648e0426303ca.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/fa03532d04f33ee17340f4b709a648e0426303ca.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/fa03532d04f33ee17340f4b709a648e0426303ca.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "LIKES": 37207,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "Classical",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 1 Extra d",
-      "logo": "oaIdrDO",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_1xtra.mpd"
+      "ID_INTERNE": 28,
+      "ID": 28,
+      "name": "Chante France",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/stream1.evasionfm.com\/Chante_France",
+        "http:\/\/stream1.chantefrance.com\/Chante_France",
+        "http:\/\/stream.chantefrance.com\/Chante_France.mp3",
+        "https:\/\/chantefrance.ice.infomaniak.ch\/chantefrance-128.mp3",
+        "https:\/\/stream.chantefrance.com\/Chante_France.aac",
+        "http:\/\/plainmaster.bcast.infomaniak.ch:8000\/chantefrance-96.aac",
+        "https:\/\/chantefrance.ice.infomaniak.ch\/chantefrance-96.aac",
+        "http:\/\/stream1.evasionfm.com\/Chante_France-32k",
+        "http:\/\/stream.chantefrance.com\/Chante_France-32k.mp3",
+        "http:\/\/stream.chantefrance.com\/Chante_France-32k.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/stream1.evasionfm.com\/Chante_France",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/be35b7fe11aa67f87760240da2caf680ae14e95b.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/be35b7fe11aa67f87760240da2caf680ae14e95b.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/be35b7fe11aa67f87760240da2caf680ae14e95b.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/be35b7fe11aa67f87760240da2caf680ae14e95b.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 30696,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 2 d",
-      "logo": "oaIdrDO",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_two.mpd"
+      "ID_INTERNE": 30,
+      "ID": 30,
+      "name": "France Culture",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/direct.franceculture.fr\/live\/franceculture-midfi.mp3",
+        "http:\/\/icecast.radiofrance.fr\/franceculture-midfi.mp3",
+        "http:\/\/direct.franceculture.fr\/live\/franceculture-lofi.mp3",
+        "http:\/\/direct.franceculture.fr\/live\/franceculture-lofi.mp3",
+        "https:\/\/stream.radiofrance.fr\/franceculture\/franceculture.m3u8?id=radiofrance",
+        "http:\/\/chai5she.cdn.dvmr.fr\/franceculture-midfi.mp3",
+        "http:\/\/direct.franceculture.fr\/live\/franceculture-midfi.mp3",
+        "https:\/\/icecast.radiofrance.fr\/franceculture-midfi.mp3",
+        "https:\/\/icecast.radiofrance.fr\/franceculture-midfi.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/direct.franceculture.fr\/live\/franceculture-midfi.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/330b8c25f7290680294cb9ee5d21712cbb29cd9b.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/330b8c25f7290680294cb9ee5d21712cbb29cd9b.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/330b8c25f7290680294cb9ee5d21712cbb29cd9b.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/330b8c25f7290680294cb9ee5d21712cbb29cd9b.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 58045,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 3 d",
-      "logo": "oaIdrDO",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_three.mpd"
+      "ID_INTERNE": 48,
+      "ID": 48,
+      "name": "France Musique",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/direct.francemusique.fr\/live\/francemusique-midfi.mp3",
+        "http:\/\/direct.francemusique.fr\/live\/francemusique-midfi.mp3",
+        "http:\/\/icecast.radiofrance.fr\/francemusique-midfi.mp3",
+        "https:\/\/icecast.radiofrance.fr\/francemusique-midfi.mp3",
+        "http:\/\/direct.francemusique.fr\/live\/francemusique-lofi.mp3",
+        "http:\/\/direct.francemusique.fr\/live\/francemusique-lofi.mp3",
+        "https:\/\/stream.radiofrance.fr\/francemusique\/francemusique_hifi.m3u8?id=radiofrance",
+        "http:\/\/chai5she.cdn.dvmr.fr\/francemusique-midfi.mp3",
+        "http:\/\/chai5she.cdn.dvmr.fr\/francemusique-midfi.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/direct.francemusique.fr\/live\/francemusique-midfi.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/c9b4ed28c0d14441c0069748101084dbdbc46da9.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/c9b4ed28c0d14441c0069748101084dbdbc46da9.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/c9b4ed28c0d14441c0069748101084dbdbc46da9.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/c9b4ed28c0d14441c0069748101084dbdbc46da9.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 23299,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "Acid Jazz",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 4 d",
-      "logo": "oaIdrDO",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_fourfm.mpd"
+      "ID_INTERNE": 13027,
+      "ID": 13027,
+      "name": "RFM",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "https:\/\/stream.rfm.fr\/rfm.aac?aw_0_1st_playerid=lgrdrnwsTuneIn",
+        "http:\/\/stream.rfm.fr\/rfm.aac?aw_0_1st_playerid=lgrdrnwsTuneIn",
+        "https:\/\/ais-live.cloud-services.paris:8443\/rfm.mp3",
+        "http:\/\/ais-live.cloud-services.paris:8000\/rfm.mp3",
+        "http:\/\/stream.rfm.fr\/rfm.mp3",
+        "http:\/\/stream.rfm.fr\/rfm.mp3?aw_0_1st_playerid=lgrdrnwsTuneIn",
+        "https:\/\/stream.rfm.fr\/rfm.mp3?aw_0_1st_playerid=lgrdrnwsTuneIn",
+        "http:\/\/ais-live.cloud-services.paris:8000\/rfm.aac",
+        "http:\/\/stream.rfm.fr\/rfm.aac",
+        "https:\/\/stream.rfm.fr\/rfm.aac?aw_0_1st_playerid=lgrdrnwsradio-en-lignefr",
+        "https:\/\/stream.rfm.fr\/rfm.128.aac\/playlist.m3u8",
+        "https:\/\/stream.rfm.fr\/rfm-live\/playlist.m3u8",
+        "http:\/\/rfm-live-mp3-128.scdn.arkena.com\/rfm.mp3",
+        "https:\/\/stream.rfm.fr\/rfm.mp3?aw_0_1st_playerid=lgrdrnwsradio-en-lignefr",
+        "http:\/\/rfm-live-aac-64.scdn.arkena.com\/rfm.aac",
+        "http:\/\/rfm-live.akamaized.net\/rfm.isml\/live-rfm.m3u8",
+        "http:\/\/rfm-live.akamaized.net\/rfm.isml\/live-rfm.m3u8"
+      ],
+      "BITRATE": "211k",
+      "url": "https:\/\/stream.rfm.fr\/rfm.aac?aw_0_1st_playerid=lgrdrnwsTuneIn",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/8341647bd10dbc52f96fbe3cfea1bab4e8c82b5c.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/8341647bd10dbc52f96fbe3cfea1bab4e8c82b5c.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/8341647bd10dbc52f96fbe3cfea1bab4e8c82b5c.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/8341647bd10dbc52f96fbe3cfea1bab4e8c82b5c.png",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 28234,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 4 Extra d",
-      "logo": "oaIdrDO",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_radio_four_extra.mpd"
+      "ID_INTERNE": 13029,
+      "ID": 13029,
+      "name": "Fun Radio",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/streaming.radio.funradio.fr\/fun-1-48-192",
+        "http:\/\/streaming.radio.funradio.fr\/fun-1-44-128",
+        "http:\/\/icecast.funradio.fr\/fun-1-44-128",
+        "http:\/\/icecast.funradio.fr\/fun-1-44-128?listen=wEbAwQMBgULAAQFAg8PBAEDBQ",
+        "https:\/\/icecast.funradio.fr\/fun-1-44-128?listen=wEbAwQMBgULAAQFAg8PBAEDBQ",
+        "http:\/\/ais.rtl.fr\/fun-1-44-64",
+        "http:\/\/icecast.funradio.fr\/fun-1-48-192",
+        "http:\/\/ais.rtl.fr\/fun-1-48-192",
+        "http:\/\/icecast.funradio.fr\/fun-tls-44-128",
+        "https:\/\/streaming.radio.funradio.fr\/fun-1-44-128",
+        "https:\/\/icecast.funradio.fr\/fun-1-44-128",
+        "https:\/\/icecast.funradio.fr\/fun-1-44-128?listen=webDQcCCwwIBwMFBgUABAwDDg",
+        "http:\/\/streaming.radio.funradio.fr\/fun-1-44-64",
+        "http:\/\/streaming.radio.funradio.fr\/fun-1-44-96",
+        "http:\/\/ais.rtl.fr\/fun-1-44-96",
+        "http:\/\/icecast.funradio.fr\/fun-tls-44-64",
+        "http:\/\/icecast.funradio.fr\/fun-tls-44-64"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/streaming.radio.funradio.fr\/fun-1-48-192",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/141707ecbfb92421a58b83f816dd0353c4ec1f31.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/141707ecbfb92421a58b83f816dd0353c4ec1f31.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/141707ecbfb92421a58b83f816dd0353c4ec1f31.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/141707ecbfb92421a58b83f816dd0353c4ec1f31.png",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 36982,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "Afro-Beat",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 5 live d",
-      "logo": "oaIdrDO",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_five_live.mpd"
+      "ID_INTERNE": 17191,
+      "ID": 17191,
+      "name": "NRJ",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30001\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30001\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30001\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/audio1\/fr\/30001\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30001\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz2\/fr\/30001\/mp3_128.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/cdn.nrjaudio.fm\/audio1\/fr\/30001\/mp3_128.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/d12251927ed37eb48f1d365d39fd37d53d3d035f.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/d12251927ed37eb48f1d365d39fd37d53d3d035f.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/d12251927ed37eb48f1d365d39fd37d53d3d035f.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/d12251927ed37eb48f1d365d39fd37d53d3d035f.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 60380,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 5 Live sports extra d",
-      "logo": "oaIdrDO",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/aks/bbc_radio_five_live_sports_extra.mpd"
+      "ID_INTERNE": 17197,
+      "ID": 17197,
+      "name": "BFM Radio",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/bfmbusiness.bfmtv.com\/bfmbradio-mp3?id=Pmo9Oq0H5z",
+        "https:\/\/chai5she.cdn.dvmr.fr\/bfmbusiness",
+        "http:\/\/chai5she.cdn.dvmr.fr\/bfmbusiness",
+        "https:\/\/chai5she.cdn.dvmr.fr\/bfmtv?id=tunein",
+        "http:\/\/bfmbusiness.bfmtv.com\/bfmbradio-mp3?id=Pmo9Oq0H5z",
+        "http:\/\/bfmbusiness.bfmtv.com\/bfmbradio-mp3?id=Pmo9Oq0H5z"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/bfmbusiness.bfmtv.com\/bfmbradio-mp3?id=Pmo9Oq0H5z",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/a6b5434ec3023465a11ea127c41a8293dd74a771.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/a6b5434ec3023465a11ea127c41a8293dd74a771.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/a6b5434ec3023465a11ea127c41a8293dd74a771.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/a6b5434ec3023465a11ea127c41a8293dd74a771.png",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 16585,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     },
     {
-      "name": "BBC - Radio 6 d",
-      "logo": "oaIdrDO",
-      "url": "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_6music.mpd"
+      "ID_INTERNE": 17240,
+      "ID": 17240,
+      "name": "RMC \/ Info Talk Sport",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/rmc.bfmtv.com\/rmcinfo-mp3",
+        "http:\/\/chai5she.lb.vip.cdn.dvmr.fr\/rmcinfo",
+        "https:\/\/rmc2hdslive-lh.akamaihd.net\/i\/DVMR_RMC@167269\/index_150_av-p.m3u8?sd=10&rebase=on",
+        "https:\/\/rmc2hdslive-lh.akamaihd.net\/i\/DVMR_RMC@167269\/master.m3u8",
+        "http:\/\/rmcinfo.cdn.dvmr.fr\/rmcinfo",
+        "http:\/\/chai5she.cdn.dvmr.fr\/rmcinfo",
+        "https:\/\/rmc2hdslive-lh.akamaihd.net\/i\/DVMR_RMC@167269\/index_150_av-b.m3u8?sd=10&rebase=on",
+        "https:\/\/rmc2hdslive-lh.akamaihd.net\/i\/DVMR_RMC@167269\/index_150_av-b.m3u8?sd=10&rebase=on"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/rmc.bfmtv.com\/rmcinfo-mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/afa778a480fe2d29ed7238fac174e13048a1552d.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/afa778a480fe2d29ed7238fac174e13048a1552d.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/afa778a480fe2d29ed7238fac174e13048a1552d.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/afa778a480fe2d29ed7238fac174e13048a1552d.png",
+      "VILLE": {
+        "ID": 386,
+        "LIBELLE": "Auxerre"
+      },
+      "REGION": {
+        "ID": 764,
+        "LIBELLE": "Bourgogne-Franche-Comt\u00e9"
+      },
+      "LIKES": 59119,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
+    },
+    {
+      "ID_INTERNE": 17270,
+      "ID": 17270,
+      "name": "RTL 2",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/streaming.radio.rtl2.fr\/rtl2-1-44-128",
+        "https:\/\/icecast.rtl2.fr\/rtl2-1-44-128",
+        "http:\/\/icecast.rtl.fr\/rtl2-1-44-128",
+        "https:\/\/icecast.rtl2.fr\/rtl2-1-44-128?listen=webAwQMBgULAAQFAg8PBAEDBQ",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c.m3u8",
+        "http:\/\/streaming.radio.rtl2.fr\/rtl2-1-44-64",
+        "https:\/\/rtlfr.live.6cloud.fr\/out\/u\/6play\/rtl2_c.m3u8",
+        "http:\/\/icecast.rtl.fr\/rtl2-1-48-192",
+        "https:\/\/icecast.rtl2.fr\/rtl2-1-44-128?listen=webDQcCCwwIBwMFBgUABAwDDg",
+        "http:\/\/streaming.radio.rtl.fr\/rtl2-1-44-128?context=fHA6LTE%3D",
+        "http:\/\/icecast.rtl2.fr\/rtl2-1-44-128",
+        "http:\/\/icecast.rtl.fr\/rtl2-1-44-128?listen=webAwQMBgULAAQFAg8PBAEDBQ",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_3259270.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2992466.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2718019.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_3259268.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2718020.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2718018.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2718023.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_3259267.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_3259266.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2718024.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2992461.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2992467.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_3259262.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2992463.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2992459.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_3259265.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2718021.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2992465.aac?m=1594288308&f=3",
+        "http:\/\/icecast.rtl2.fr\/rtl2-1-48-72.aac",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2718022.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2992464.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_3259263.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2992460.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2718025.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2992462.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_2718017.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_3259269.aac?m=1594288308&f=3",
+        "https:\/\/rtl-radio.cdn-live.6play.fr\/out\/u\/6play\/rtl2_audio_c_0_3259264.aac?m=1594288308&f=3",
+        "http:\/\/streaming.radio.rtl2.fr\/rtl2-1-48-192",
+        "http:\/\/streaming.radio.rtl2.fr\/rtl2-1-44-96",
+        "http:\/\/vipicecast.yacast.net\/rtl2",
+        "http:\/\/vipicecast.yacast.net\/rtl2"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/streaming.radio.rtl2.fr\/rtl2-1-44-128",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/2627f77a2d3736422055985f0c2b0d11909f47a2.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/2627f77a2d3736422055985f0c2b0d11909f47a2.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/2627f77a2d3736422055985f0c2b0d11909f47a2.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/2627f77a2d3736422055985f0c2b0d11909f47a2.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 842,
+        "LIBELLE": "France"
+      },
+      "LIKES": 37929,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "Active Rock",
+      "FAV": false
+    },
+    {
+      "ID_INTERNE": 17545,
+      "ID": 17545,
+      "name": "RFI Monde",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "https:\/\/rfimonde-96k.ice.infomaniak.ch\/rfimonde-96k.mp3",
+        "http:\/\/icepe1.infomaniak.ch\/rfimonde-64.mp3",
+        "https:\/\/rfimonde64k.ice.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/icepe5.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/icepe3.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/plainmaster.bcast.infomaniak.ch:8000\/rfimonde-64.mp3",
+        "http:\/\/icepe10.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/icepe8.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/icepe6.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/icepe7.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/icepe9.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/icepe2.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/live02.rfi.fr\/rfimonde-64.mp3",
+        "http:\/\/icepe12.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/icepe4.infomaniak.ch\/rfimonde-64.mp3",
+        "http:\/\/icepe11.infomaniak.ch\/rfimonde-64.mp3",
+        "https:\/\/live-reflector.ice.infomaniak.ch\/rfimonde-64.mp3",
+        "https:\/\/live-reflector.ice.infomaniak.ch\/rfimonde-64.mp3"
+      ],
+      "BITRATE": "96k",
+      "url": "https:\/\/rfimonde-96k.ice.infomaniak.ch\/rfimonde-96k.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/7245380a37355a09e12b06ab645c8b98a601bf72.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/7245380a37355a09e12b06ab645c8b98a601bf72.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/7245380a37355a09e12b06ab645c8b98a601bf72.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/7245380a37355a09e12b06ab645c8b98a601bf72.png",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 32818,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
+    },
+    {
+      "ID_INTERNE": 57130,
+      "ID": 57130,
+      "name": "NRJ Hits",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/cdn.nrjaudio.fm\/adwz1\/fr\/30043\/mp3_128.mp3",
+        "http:\/\/cdn.nrjaudio.fm\/adwz1\/fr\/30043\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz1\/fr\/30043\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz1\/fr\/30043\/mp3_128.mp3",
+        "http:\/\/cdn.nrjaudio.fm\/adwz1\/fr\/30043\/mp3_128.mp3",
+        "http:\/\/cdn.nrjaudio.fm\/adwz1\/fr\/30043\/mp3_128.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/cdn.nrjaudio.fm\/adwz1\/fr\/30043\/mp3_128.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/e59b9421cc7bdf253241367ae72cf21077770b24.jpeg",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo_mini\/e59b9421cc7bdf253241367ae72cf21077770b24.jpeg",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo_middle\/e59b9421cc7bdf253241367ae72cf21077770b24.jpeg",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/e59b9421cc7bdf253241367ae72cf21077770b24.jpeg",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 10544,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "Active Rock",
+      "FAV": false
+    },
+    {
+      "ID_INTERNE": 121022,
+      "ID": 121022,
+      "name": "Nostalgie 100% francais 80",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/cdn.nrjaudio.fm\/adwz1\/fr\/56164\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz1\/fr\/56164\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz1\/fr\/56164\/mp3_128.mp3",
+        "https:\/\/scdn.nrjaudio.fm\/adwz1\/fr\/56164\/mp3_128.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/cdn.nrjaudio.fm\/adwz1\/fr\/56164\/mp3_128.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/70a6f1ba1c9f9890a80299e91c265bd5eb9a39ac.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo\/70a6f1ba1c9f9890a80299e91c265bd5eb9a39ac.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/70a6f1ba1c9f9890a80299e91c265bd5eb9a39ac.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/70a6f1ba1c9f9890a80299e91c265bd5eb9a39ac.png",
+      "VILLE": {
+        "ID": 2,
+        "LIBELLE": "Paris"
+      },
+      "REGION": {
+        "ID": 2,
+        "LIBELLE": "\u00cele-de-France"
+      },
+      "LIKES": 7248,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "80",
+      "FAV": false
+    },
+    {
+      "ID_INTERNE": 133028,
+      "ID": 133028,
+      "name": "Franceinfo",
+      "getTitreAllowed": true,
+      "STREAMS": [
+        "http:\/\/direct.franceinfo.fr\/live\/franceinfo-midfi.mp3",
+        "http:\/\/direct.franceinfo.fr\/live\/franceinfo-midfi.mp3",
+        "http:\/\/direct.franceinfo.fr\/live\/franceinfo-lofi.mp3",
+        "http:\/\/direct.franceinfo.fr\/live\/franceinfo-lofi.mp3",
+        "http:\/\/direct.franceinfo.fr\/live\/franceinfo-lofi.mp3"
+      ],
+      "BITRATE": "128k",
+      "url": "http:\/\/direct.franceinfo.fr\/live\/franceinfo-midfi.mp3",
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/da56a34e39c1ec699d5c4489b7988d14fcff4040.png",
+      "URL_IMAGE_MINI": "http:\/\/api.radiolight.info\/files\/radio\/logo\/da56a34e39c1ec699d5c4489b7988d14fcff4040.png",
+      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/da56a34e39c1ec699d5c4489b7988d14fcff4040.png",
+      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/da56a34e39c1ec699d5c4489b7988d14fcff4040.png",
+      "LIKES": 11728,
+      "CODE_PAYS": "FR",
+      "PAYS": {
+        "CODE": "FR",
+        "name": "France"
+      },
+      "CATEGORIE_PERSO": false,
+      "CATEGORIE": "News",
+      "FAV": false
     }
   ]
 }
