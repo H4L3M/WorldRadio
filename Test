@@ -1,6 +1,96 @@
 {
   "radios": [
     {
+      "name": "SNRT International",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
+      "logo": "N7P0S19",
+      "id": 0
+    },
+    {
+      "name": "SNRT National",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8",
+      "logo": "KmugEQy",
+      "id": 0
+    },
+    {
+      "name": "SNRT Amazigh",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8",
+      "logo": "TBmfoKs",
+      "id": 0
+    },
+    {
+      "name": "SNRT Quran",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8",
+      "logo": "wjMmCz1",
+      "id": 0
+    },
+    {
+      "name": "SNRT Tanger",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8",
+      "logo": "8oZw38J",
+      "id": 0
+    },
+    {
+      "name": "SNRT Agadir",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_agadir/hls_snrt_radio/index.m3u8",
+      "logo": "HtgGQWF",
+      "id": 0
+    },
+    {
+      "name": "SNRT El Hoceima",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_el_hoceima/hls_snrt_radio/index.m3u8",
+      "logo": "wfdGOIp",
+      "id": 0
+    },
+    {
+      "name": "SNRT Tetouan",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8",
+      "logo": "cA90qlq",
+      "id": 0
+    },
+    {
+      "name": "SNRT Dakhla",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_dakhla/hls_snrt_radio/index.m3u8",
+      "logo": "KzV1OlH",
+      "id": 0
+    },
+    {
+      "name": "SNRT Fes",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_fes/hls_snrt_radio/index.m3u8",
+      "logo": "YFXjDyF",
+      "id": 0
+    },
+    {
+      "name": "SNRT Marrakech",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_marrakech/hls_snrt_radio/index.m3u8",
+      "logo": "4JBeA2i",
+      "id": 0
+    },
+    {
+      "name": "SNRT Casablanca",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8",
+      "logo": "WU6vELG",
+      "id": 0
+    },
+    {
+      "name": "SNRT Oujda",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_oujda/hls_snrt_radio/index.m3u8",
+      "logo": "pSWHxxP",
+      "id": 0
+    },
+    {
+      "name": "SNRT Meknes",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_meknes/hls_snrt_radio/index.m3u8",
+      "logo": "Rz4e0iG",
+      "id": 0
+    },
+    {
+      "name": "SNRT Laayoune",
+      "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_laayoune/hls_snrt_radio/index.m3u8",
+      "logo": "EyyZllX",
+      "id": 0
+    },
+    {
       "name": "Med Radio",
       "url": "https://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3",
       "logo": "9QcLivJ"
