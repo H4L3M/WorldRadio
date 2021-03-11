@@ -1,139 +1,20 @@
 {
   "NB_RADIOS_LIKED": 0,
   "radios": [
-
     {
-      "ID_INTERNE": 24,
-      "ID": 24,
       "name": "Hit West",
-      "getTitreAllowed": true,
-      "STREAMS": [
-        "http:\/\/icepe5.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/hitwest.ice.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe3.infomaniak.ch\/hitwest-high.mp3",
-        "https:\/\/hitwest.ice.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe4.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe11.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe1.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe6.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe12.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe3.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe13.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe14.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe2.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe5.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe8.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe10.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe7.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe2.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/icepe9.infomaniak.ch\/hitwest-high.mp3",
-        "http:\/\/broadcast.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe10.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe7.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe12.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe4.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe8.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe1.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe6.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe11.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe9.infomaniak.ch\/hitwest-high.aac",
-        "http:\/\/icepe9.infomaniak.ch\/hitwest-high.aac"
-      ],
-      "BITRATE": "128k",
       "url": "http:\/\/icepe5.infomaniak.ch\/hitwest-high.mp3",
-      "URL_IMAGE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/bd847b59994316b91f11a01fb8e9911ee585286e.png",
-      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/bd847b59994316b91f11a01fb8e9911ee585286e.png",
-      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/bd847b59994316b91f11a01fb8e9911ee585286e.png",
-      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/bd847b59994316b91f11a01fb8e9911ee585286e.png",
-      "VILLE": {
-        "ID": 3,
-        "LIBELLE": "Nantes"
-      },
-      "REGION": {
-        "ID": 3,
-        "LIBELLE": "Pays de la Loire"
-      },
-      "LIKES": 12863,
-      "CODE_PAYS": "FR",
-      "PAYS": {
-        "CODE": "FR",
-        "name": "France"
-      },
-      "CATEGORIE_PERSO": false,
-      "CATEGORIE": "Acid Jazz",
-      "FAV": false
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/bd847b59994316b91f11a01fb8e9911ee585286e.png"
     },
     {
-      "ID_INTERNE": 25,
-      "ID": 25,
       "name": "Radio Orient",
-      "getTitreAllowed": true,
-      "STREAMS": [
-        "http:\/\/stream3.broadcast-associes.com:8405\/Radio-Orient",
-        "https:\/\/stream-broadcast.ovh\/Radio-Orient.mp3",
-        "https:\/\/stream-broadcast.ovh\/Radio-Orient.mp3"
-      ],
-      "BITRATE": "64k",
       "url": "http:\/\/stream3.broadcast-associes.com:8405\/Radio-Orient",
-      "URL_IMAGE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/cce8b72d0b871ff8b684f15a5ad213ddef717ab3.png",
-      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/cce8b72d0b871ff8b684f15a5ad213ddef717ab3.png",
-      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/cce8b72d0b871ff8b684f15a5ad213ddef717ab3.png",
-      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/cce8b72d0b871ff8b684f15a5ad213ddef717ab3.png",
-      "VILLE": {
-        "ID": 4,
-        "LIBELLE": "Clichy"
-      },
-      "REGION": {
-        "ID": 2,
-        "LIBELLE": "\u00cele-de-France"
-      },
-      "LIKES": 11791,
-      "CODE_PAYS": "FR",
-      "PAYS": {
-        "CODE": "FR",
-        "name": "France"
-      },
-      "CATEGORIE_PERSO": false,
-      "CATEGORIE": "Arabian",
-      "FAV": false
+      "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/cce8b72d0b871ff8b684f15a5ad213ddef717ab3.png"
     },
     {
-      "ID_INTERNE": 31,
-      "ID": 31,
       "name": "TSF Jazz",
-      "getTitreAllowed": true,
-      "STREAMS": [
-        "http:\/\/tsfjazz.ice.infomaniak.ch\/tsfjazz-high",
-        "http:\/\/plainmaster.bcast.infomaniak.ch:8000\/tsfjazz-high.mp3",
-        "http:\/\/tsfjazz.ice.infomaniak.ch\/tsfjazz-high.mp3",
-        "http:\/\/broadcast.infomaniak.net\/tsfjazz-high.mp3",
-        "http:\/\/icepe9.infomaniak.ch\/tsfjazz-high.mp3",
-        "https:\/\/tsfjazz.ice.infomaniak.ch\/tsfjazz-high.mp3",
-        "https:\/\/tsfjazz.ice.infomaniak.ch\/tsfjazz-high.mp3"
-      ],
-      "BITRATE": "128k",
       "url": "http:\/\/tsfjazz.ice.infomaniak.ch\/tsfjazz-high",
-      "URL_IMAGE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/4e88f104c8a36acd4deadbd4fca973d5a2394c90.png",
       "logo": "http:\/\/api.radiolight.info\/files\/radio\/logo\/4e88f104c8a36acd4deadbd4fca973d5a2394c90.png",
-      "URL_IMAGE_MIDDLE": "http:\/\/api.radiolight.info\/files\/radio\/logo\/4e88f104c8a36acd4deadbd4fca973d5a2394c90.png",
-      "URL_IMAGE_BIG": "http:\/\/api.radiolight.info\/files\/radio\/logo\/4e88f104c8a36acd4deadbd4fca973d5a2394c90.png",
-      "VILLE": {
-        "ID": 2,
-        "LIBELLE": "Paris"
-      },
-      "REGION": {
-        "ID": 2,
-        "LIBELLE": "\u00cele-de-France"
-      },
-      "LIKES": 14578,
-      "CODE_PAYS": "FR",
-      "PAYS": {
-        "CODE": "FR",
-        "name": "France"
-      },
-      "CATEGORIE_PERSO": false,
-      "CATEGORIE": "Acid Jazz",
-      "FAV": false
     },
     {
       "ID_INTERNE": 33,
