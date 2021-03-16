@@ -3,105 +3,105 @@
     {
       "name": "SNRT International",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
-      "logo": "https://www.glimmernet.com/wp-content/uploads/2019/02/clip-path-example-bg.jpg",
+      "logo": "103ssqB",
       "order": 1,
       "id": 0
     },
     {
       "name": "SNRT National",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8",
-      "logo": "https://cornerstone.ag/wp-content/uploads/2017/03/Easter-BG.jpg",
+      "logo": "xHzw1hf",
       "order": 2,
       "id": 0
     },
     {
       "name": "SNRT Amazigh",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8",
-      "logo": "TBmfoKs",
+      "logo": "WJzBeTN",
       "order": 3,
       "id": 0
     },
     {
       "name": "SNRT Quran",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8",
-      "logo": "wcIZ7z2",
+      "logo": "IeNfD03",
       "order": 4,
       "id": 0
     },
     {
       "name": "SNRT Tanger",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8",
-      "logo": "KuNW44n",
+      "logo": "4gW8s2b",
       "order": 5,
       "id": 0
     },
     {
       "name": "SNRT Agadir",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_agadir/hls_snrt_radio/index.m3u8",
-      "logo": "HtgGQWF",
+      "logo": "IeNfD03",
       "order": 6,
       "id": 0
     },
     {
       "name": "SNRT El Hoceima",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_el_hoceima/hls_snrt_radio/index.m3u8",
-      "logo": "wfdGOIp",
+      "logo": "gFsVGzU",
       "order": 7,
       "id": 0
     },
     {
       "name": "SNRT Tetouan",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8",
-      "logo": "cA90qlq",
+      "logo": "i1kMqDN",
       "order": 8,
       "id": 0
     },
     {
       "name": "SNRT Dakhla",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_dakhla/hls_snrt_radio/index.m3u8",
-      "logo": "KzV1OlH",
+      "logo": "5WWuDWg",
       "order": 9,
       "id": 0
     },
     {
       "name": "SNRT Fes",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_fes/hls_snrt_radio/index.m3u8",
-      "logo": "YFXjDyF",
+      "logo": "IEfpbZQ",
       "order": 10,
       "id": 0
     },
     {
       "name": "SNRT Marrakech",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_marrakech/hls_snrt_radio/index.m3u8",
-      "logo": "4JBeA2i",
+      "logo": "KedkxTT",
       "order": 11,
       "id": 0
     },
     {
       "name": "SNRT Casablanca",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8",
-      "logo": "WU6vELG",
+      "logo": "bLf8Z7k",
       "order": 12,
       "id": 0
     },
     {
       "name": "SNRT Oujda",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_oujda/hls_snrt_radio/index.m3u8",
-      "logo": "pSWHxxP",
+      "logo": "BhUrBYz",
       "order": 13,
       "id": 0
     },
     {
       "name": "SNRT Meknes",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_meknes/hls_snrt_radio/index.m3u8",
-      "logo": "Rz4e0iG",
+      "logo": "kmVuVK4",
       "order": 14,
       "id": 0
     },
     {
       "name": "SNRT Laayoune",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_laayoune/hls_snrt_radio/index.m3u8",
-      "logo": "OI26Zdq",
+      "logo": "rPY6DPP",
       "order": 15,
       "id": 0
     },
