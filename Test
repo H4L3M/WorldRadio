@@ -87,8 +87,14 @@
     {
       "name": "SNRT Laayoune",
       "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_laayoune/hls_snrt_radio/index.m3u8",
-      "logo": "EyyZllX",
+      "logo": "OI26Zdq",
       "id": 0
+    },
+    {
+    "name": "Radio 2M",
+    "url": "https://radio2m-i.akamaihd.net/hls/live/624355/radio2m/playlist.m3u8",
+    "logo": ""
+    "id"
     },
     {
       "name": "Med Radio",
