@@ -4,7 +4,6 @@
       "name": "SNRT International",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
       "logo": "103ssqB",
-      "isFav": 0,
       "id": 1
     },
     {
@@ -17,14 +16,12 @@
       "name": "SNRT Amazigh",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8",
       "logo": "WJzBeTN",
-      "isFav": 0,
       "id": 3
     },
     {
       "name": "SNRT Quran",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8",
       "logo": "IeNfD03",
-      "isFav": 0,
       "id": 4
     },
     {
@@ -38,7 +35,6 @@
       "name": "SNRT Agadir",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_agadir/hls_snrt_radio/index.m3u8",
       "logo": "IeNfD03",
-      "isFav": 0,
       "id": 6
     },
     {
@@ -52,56 +48,48 @@
       "name": "SNRT Tetouan",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8",
       "logo": "i1kMqDN",
-      "isFav": 0,
       "id": 8
     },
     {
       "name": "SNRT Dakhla",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_dakhla/hls_snrt_radio/index.m3u8",
       "logo": "5WWuDWg",
-      "isFav": 0,
       "id": 9
     },
     {
       "name": "SNRT Fes",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_fes/hls_snrt_radio/index.m3u8",
       "logo": "IEfpbZQ",
-      "isFav": 0,
       "id": 10
     },
     {
       "name": "SNRT Marrakech",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_marrakech/hls_snrt_radio/index.m3u8",
       "logo": "KedkxTT",
-      "isFav": 0,
       "id": 11
     },
     {
       "name": "SNRT Casablanca",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_casa/hls_snrt_radio/index.m3u8",
       "logo": "bLf8Z7k",
-      "isFav": 0,
       "id": 12
     },
     {
       "name": "SNRT Oujda",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_oujda/hls_snrt_radio/index.m3u8",
       "logo": "BhUrBYz",
-      "isFav": 0,
       "id": 13
     },
     {
       "name": "SNRT Meknes",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_meknes/hls_snrt_radio/index.m3u8",
       "logo": "kmVuVK4",
-      "isFav": 0,
       "id": 14
     },
     {
       "name": "SNRT Laayoune",
       "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_laayoune/hls_snrt_radio/index.m3u8",
       "logo": "rPY6DPP",
-      "isFav": 0,
       "id": 15
     },
     {
