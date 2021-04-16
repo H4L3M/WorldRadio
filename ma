@@ -199,109 +199,109 @@
         "name": "Hit Radio Burkina Fasso",
         "flux": "http://hr-burkina.ice.infomaniak.ch/hr-burkina-64.aac",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/new_burkinafaso.png",
-        "id": 29
+        "id": 30
       },
       {
         "name": "Hit Radio Tchad",
         "flux": "http://hr-tchad.ice.infomaniak.ch/hr-tchad-64.aac",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/HIT_RADIO_TCHAD.PNG",
-        "id": 29
+        "id": 31
       },
       {
         "name": "Hit Radio Togo",
         "flux": "http://hr-togo.ice.infomaniak.ch/hr-togo-64.aac",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/image_togo.png",
-        "id": 29
+        "id": 32
       },
       {
         "name": "Hit Radio Niger",
         "flux": "http://hr-niger.ice.infomaniak.ch/hr-niger-64.aac",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/img_niger.png",
-        "id": 29
+        "id": 33
       },
       {
         "name": "Hit Radio Cote D'ivoire",
         "flux": "http://hrci.ice.infomaniak.ch/ci-abidjan-96.aac",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/image-cote-devoir.png",
-        "id": 29
+        "id": 34
       },
       {
         "name": "Hit Radio Mgharba",
         "flux": "http://hitradio.ice.infomaniak.ch/mgharba-128.mp3",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/mgharba.png",
-        "id": 29
+        "id": 35
       },
       {
         "name": "Hit Radio Latino",
         "flux": "http://hitradio.ice.infomaniak.ch/latino-128.mp3",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/latino.png",
-        "id": 30
+        "id": 36
       },
       {
         "name": "Hit Radio Pop/Rock",
         "flux": "http://hitradio.ice.infomaniak.ch/poprock-128.mp3",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/poprock.png",
-        "id": 31
+        "id": 37
       },
       {
         "name": "Hit Radio Gold",
         "flux": "http://hitradio.ice.infomaniak.ch/gold-128.mp3",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/gold.png",
-        "id": 32
+        "id": 38
       },
       {
         "name": "Hit Radio French",
         "flux": "http://hitradio.ice.infomaniak.ch/french-128.mp3",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/french.png",
-        "id": 32
+        "id": 39
       },
       {
         "name": "Hit Radio Dnace Floor",
         "flux": "http://hitradio.ice.infomaniak.ch/dancefloor-128.mp3",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/dancefloor.png",
-        "id": 32
+        "id": 40
       },
       {
         "name": "Hit Radio Cover",
         "flux": "http://hitradio.ice.infomaniak.ch/cover2-128.mp3",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/cover.png",
-        "id": 32
+        "id": 41
       },
       {
         "name": "Hit Radio Rnb",
         "flux": "http://hitradio.ice.infomaniak.ch/rnb-128.mp3",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/rnb.png",
-        "id": 32
+        "id": 42
       },
       {
         "name": "Hit Radio Buzz",
         "flux": "http://hitradio.ice.infomaniak.ch/buzz-128.mp3",
         "logo": "https://new.hitradio.ma/modules/live/assets/images/small/buzz.png",
-        "id": 32
+        "id": 43
       },
       {
         "name": "Chada",
         "flux": "https://live-reflector.ice.infomaniak.ch/chadafm-high.mp3",
         "logo": "https://cdn.webrad.io/images/logos/radio-co-ma/chada.png",
-        "id": 99
+        "id": 44
       },
       {
         "name": "Radio Mars",
         "flux": "http://radiomars.ice.infomaniak.ch/radiomars-128.mp3.m3u",
         "logo": "https://cdn.webrad.io/images/logos/radio-co-ma/mars.png",
-        "id": 99
+        "id": 45
       },
       {
         "name": "Radio Aswat",
         "flux": "http://broadcast.ice.infomaniak.ch/aswat-high.mp3.m3u",
         "logo": "https://cdn.webrad.io/images/logos/radio-co-ma/mars.png",
-        "id": 99
+        "id": 46
       },
       {
         "name": "Radio Sawa",
         "flux": "https://stream.radiojar.com/1w27tnzst5quv.m3u",
         "logo": "https://cdn.webrad.io/images/logos/radio-co-ma/sawa.png",
-        "id": 99
+        "id": 47
       }
     ]
   }
