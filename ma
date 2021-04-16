@@ -100,99 +100,207 @@
     },
      {
     "id": 17,
-    "name": "Soufi",
+    "name": "Medi 1 Radio",
+    "image": "https://bridge.medi1.com/upload/2016-03-25_13_15_38977.jpg",
+    "flux": "https://live.medi1.com/medi1",
+    "logo
+     {
+    "id": 17,
+    "name": "Medi 1 Soufi",
     "image": "https://bridge.medi1.com/upload/2016-03-25_13_15_38977.jpg",
     "flux": "http://live.medi1.com/Soufi#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/Soufi.png"
   },
   {
     "id": 18,
-    "name": "Andalouse",
+    "name": "Medi 1 Andalouse",
     "image": "https://bridge.medi1.com/upload/2016-03-25_13_11_02101.jpg",
     "flux": "http://live.medi1.com/Andalouse#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/Andalouse.png"
   },
   {
     "id": 19,
-    "name": "Tarab",
+    "name": "Medi 1 Tarab",
     "image": "https://bridge.medi1.com/upload/2016-03-25_13_12_54727.jpg",
     "flux": "http://live.medi1.com/Tarab#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/Tarab.png"
   },
   {
     "id": 20,
-    "name": "Nayda",
+    "name": "Medi 1 Nayda",
     "image": "https://bridge.medi1.com/upload/2018-04-26_16_25_35926.jpg",
     "flux": "http://live.medi1.com/Nayda#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/Nayda.png"
   },
   {
     "id": 21,
-    "name": "Acoustic",
+    "name": "Medi 1 Acoustic",
     "image": "https://bridge.medi1.com/upload/2018-04-01_19_51_20285.jpg",
     "flux": "http://live.medi1.com/Acoustic#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/Acoustic.png"
   },
   {
     "id": 22,
-    "name": "Classique",
+    "name": "Medi 1 Classique",
     "image": "https://bridge.medi1.com/upload/2018-04-16_17_13_04394.jpg",
     "flux": "http://live.medi1.com/Classique#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/Classique.png"
   },
   {
     "id": 23,
-    "name": "Lounge",
+    "name": "Medi 1 Lounge",
     "image": "https://bridge.medi1.com/upload/2016-03-25_12_37_07450.jpg",
     "flux": "http://live.medi1.com/Lounge#.mp3",
     "logo": "https://bridge.medi1.com/images/Mobile/Lounge.png"
   },
   {
     "id": 24,
-    "name": "Latino",
+    "name": "Medi 1 Latino",
     "image": "https://bridge.medi1.com/upload/2016-03-25_12_34_54953.jpg",
     "flux": "http://live.medi1.com/Latino#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/Latino.png"
   },
   {
     "id": 25,
-    "name": "Jazz",
+    "name": "Medi 1 Jazz",
     "image": "https://bridge.medi1.com/upload/2016-03-25_12_29_32655.jpg",
     "flux": "http://live.medi1.com/Jazz#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/Jazz.png"
   },
   {
     "id": 26,
-    "name": "Hits",
+    "name": "Medi 1 Hits",
     "image": "https://bridge.medi1.com/upload/2016-03-25_12_24_09508.jpg",
     "flux": "http://live.medi1.com/Hits#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/Hits.png"
   },
   {
     "id": 27,
-    "name": "Dj",
+    "name": "Medi 1 Dj",
     "image": "https://bridge.medi1.com/upload/2016-03-25_12_28_20735.jpg",
     "flux": "http://live.medi1.com/Dj#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/DJ.png"
   },
   {
     "id": 28,
-    "name": "Chanson Française",
+    "name": "Medi 1 Chanson Française",
     "image": "https://bridge.medi1.com/upload/2018-04-16_17_14_0086.jpg",
     "flux": "http://live.medi1.com/Francaise#.mp3",
     "logo": "http://bridge.medi1.com/images/Mobile/Francaise.png"
   },
     {
-      "name": "Med Radio",
-      "flux": "https://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3",
-      "logo": "9QcLivJ",
+      "name": "Hit Radio",
+      "flux": "http://hitradio.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/hitradio.png",
       "id": 29
+    },
+    {
+      "name": "Hit Radio Burkina Fasso",
+      "flux": "http://hr-burkina.ice.infomaniak.ch/hr-burkina-64.aac",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/new_burkinafaso.png",
+      "id": 29
+    },
+    {
+      "name": "Hit Radio Tchad",
+      "flux": "http://hr-tchad.ice.infomaniak.ch/hr-tchad-64.aac",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/HIT_RADIO_TCHAD.PNG",
+      "id": 29
+    },
+    {
+      "name": "Hit Radio Togo",
+      "flux": "http://hr-togo.ice.infomaniak.ch/hr-togo-64.aac",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/image_togo.png",
+      "id": 29
+    },
+    {
+      "name": "Hit Radio Niger",
+      "flux": "http://hr-niger.ice.infomaniak.ch/hr-niger-64.aac",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/img_niger.png",
+      "id": 29
+    },
+    {
+      "name": "Hit Radio Cote D'ivoire",
+      "flux": "http://hrci.ice.infomaniak.ch/ci-abidjan-96.aac",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/image-cote-devoir.png",
+      "id": 29
+    },
+    {
+      "name": "Hit Radio Mgharba",
+      "flux": "http://hitradio.ice.infomaniak.ch/mgharba-128.mp3",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/mgharba.png",
+      "id": 29
+    },
+    {
+      "name": "Hit Radio Latino",
+      "flux": "http://hitradio.ice.infomaniak.ch/latino-128.mp3",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/latino.png",
+      "id": 30
+    },
+    {
+      "name": "Hit Radio Pop/Rock",
+      "flux": "http://hitradio.ice.infomaniak.ch/poprock-128.mp3",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/poprock.png",
+      "id": 31
+    },
+    {
+      "name": "Hit Radio Gold",
+      "flux": "http://hitradio.ice.infomaniak.ch/gold-128.mp3",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/gold.png",
+      "id": 32
+    },
+    {
+      "name": "Hit Radio French",
+      "flux": "http://hitradio.ice.infomaniak.ch/french-128.mp3",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/french.png",
+      "id": 32
+    },
+    {
+      "name": "Hit Radio Dnace Floor",
+      "flux": "http://hitradio.ice.infomaniak.ch/dancefloor-128.mp3",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/dancefloor.png",
+      "id": 32
+    },
+    {
+      "name": "Hit Radio Cover",
+      "flux": "http://hitradio.ice.infomaniak.ch/cover2-128.mp3",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/cover.png",
+      "id": 32
+    },
+    {
+      "name": "Hit Radio Rnb",
+      "flux": "http://hitradio.ice.infomaniak.ch/rnb-128.mp3",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/rnb.png",
+      "id": 32
+    },
+    {
+      "name": "Hit Radio Buzz",
+      "flux": "http://hitradio.ice.infomaniak.ch/buzz-128.mp3",
+      "logo": "https://new.hitradio.ma/modules/live/assets/images/small/buzz.png",
+      "id": 32
     },
     {
       "name": "Chada",
       "flux": "https://live-reflector.ice.infomaniak.ch/chadafm-high.mp3",
-      "logo": "https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg",
-      "id": 30
-    }
+      "logo": "https://cdn.webrad.io/images/logos/radio-co-ma/chada.png",
+      "id": 99
+    },
+    {
+      "name": "Radio Mars",
+      "flux": "http://radiomars.ice.infomaniak.ch/radiomars-128.mp3.m3u",
+      "logo": "https://cdn.webrad.io/images/logos/radio-co-ma/mars.png",
+      "id": 99
+    },
+    {
+      "name": "Radio Aswat",
+      "flux": "http://broadcast.ice.infomaniak.ch/aswat-high.mp3.m3u",
+      "logo": "https://cdn.webrad.io/images/logos/radio-co-ma/mars.png",
+      "id": 99
+    },
+    {
+      "name": "Radio Sawa",
+      "flux": "https://stream.radiojar.com/1w27tnzst5quv.m3u",
+      "logo": "https://cdn.webrad.io/images/logos/radio-co-ma/sawa.png",
+      "id": 99
+    },
   ]
 }
