@@ -151,7 +151,7 @@
     "name": "Lounge",
     "image": "https://bridge.medi1.com/upload/2016-03-25_12_37_07450.jpg",
     "flux": "http://live.medi1.com/Lounge#.mp3",
-    "logo": "https://bridge.medi1.com/upload/2016-03-25_16_53_25651.png",
+    "logo": "https://bridge.medi1.com/images/Mobile/Lounge.png",
     "order": "https://bridge.medi1.com/7"
   },
   {
