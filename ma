@@ -103,7 +103,8 @@
     "name": "Medi 1 Radio",
     "image": "https://bridge.medi1.com/upload/2016-03-25_13_15_38977.jpg",
     "flux": "https://live.medi1.com/medi1",
-    "logo
+    "logo": "SedI8bk"
+    },
      {
     "id": 17,
     "name": "Medi 1 Soufi",
