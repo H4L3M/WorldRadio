@@ -1,5 +1,11 @@
 {
     "radios": [
+    {
+        "name": "Hi Mitro W Nos - مرحبا يا سنفورة",
+        "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
+        "logo": "DfKXavK",
+        "id": 0
+      },
       {
         "name": "SNRT International",
         "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
