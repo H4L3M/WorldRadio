@@ -2,7 +2,7 @@
     "radios": [
     {
         "name": "Hi Mitro W Nos - مرحبا يا سنفورة",
-        "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
+        "flux": "https://www.mboxdrive.com/Hamaki%20-%20Mel%20Bedaya%20(Official%20Lyric%20Video)%20_%20%D8%AD%D9%85%D8%A7%D9%82%D9%8A%20-%20%D9%85%20%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9%20-%20%D9%83%D9%84%D9%85%D8%A7%D8%AA-AX8QOuy7YJs.mp3",
         "logo": "DfKXavK",
         "id": 0
       },
