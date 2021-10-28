@@ -2,7 +2,7 @@
     "radios": [
       {
         "name": "SNRT International",
-        "flux": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
+        "flux": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8",
         "logo": "103ssqB",
         "id": 1
       },
