@@ -1,0 +1,15 @@
+   "tv": [
+      {
+        "name": "Al Oula",
+        "flux": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8",
+        "logo": "103ssqB",
+        "id": 1
+      },
+      {
+        "name": "SNRT News",
+        "flux": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8",
+        "logo": "xHzw1hf",
+        "id": 2   
+        }
+    ]
+  }
