@@ -2,13 +2,13 @@
       {
         "name": "Al Oula",
         "flux": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8",
-        "logo": "103ssqB",
+        "logo": "Q9eV3WY",
         "id": 1
       },
       {
-        "name": "SNRT News",
+        "name": "2M",
         "flux": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8",
-        "logo": "xHzw1hf",
+        "logo": "AgVvrrm",
         "id": 2   
         }
     ]
